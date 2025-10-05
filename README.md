@@ -1,4 +1,4 @@
-# DecoderTransformer
+# Implementasi Arsitektur Transformer dari Nol dengan NumPy
 
 ## Dependensi
 Proyek ini hanya memerlukan dependensi berikut:
